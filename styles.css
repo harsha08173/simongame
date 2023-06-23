@@ -1,0 +1,66 @@
+body
+{
+    background-color: #22A699;
+    text-align: center;
+}
+h2{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2rem;
+}
+h1{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Press Start 2P', cursive;
+    color: #F24C3D;
+    background-color: black;
+    width:fit-content;
+    font-size: 4rem;
+    margin-left: 34%;
+}
+
+button
+{
+    width: 250px;
+    height:250px;
+    margin:30px;
+    border-radius: 30px;
+    border: 10px solid black;
+}
+
+.allbtn
+{
+    margin-top: 50px;
+}
+
+.btn1
+{
+    background-color: #F29727;
+}
+.btn2
+{
+    background-color: red;
+}
+.btn3
+{
+    background-color:purple;
+}
+.btn4
+{
+    background-color: #2D4356;
+}
+
+.onclick
+{
+  opacity: 0.2;
+}
+
+.gameover
+{
+
+    visibility: visible;
+}
+.start
+{
+    visibility: hidden;
+
+}
